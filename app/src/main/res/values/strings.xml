@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Magazine</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="sort_by_rating">Sort by Rating</string>
+    <string name="release_date">Release Date :</string>
+    <string name="rating">Rating :</string>
+    <string name="overview">Overview :</string>
+    <string name="adult_18">18+</string>
+    <string name="under_age">U/A</string>
+    <string name="ok">OK</string>
+    <string name="no_internet">No Internet Connectivity</string>
+    <string name="favorite_menu">favorite_menu</string>
+    <string name="remove_fav">Removed from Favorites List</string>
+    <string name="add_to_fav">Added to Favorites List</string>
+    <string name="traliers">Traliers</string>
+    <string name="favorites">Favorites</string>
+    <string name="reviews">Reviews</string>
+    <string name="myFavorites">myFavorites</string>
+    <string name="loading">Loading..</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="no_trailers">No trailers for this movie</string>
+    <string name="no_review">No reviews for this movie</string>
+</resources>
